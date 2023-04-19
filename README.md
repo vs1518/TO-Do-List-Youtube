@@ -3,15 +3,15 @@
 
 <h2>Fonctionnalités</h2>
 
-Ajouter une nouvelle tâche à la liste
-Marquer une tâche comme terminée
-Supprimer une tâche de la liste
-Sauvegarder la liste des tâches pour une utilisation future
+<p> Ajouter une nouvelle tâche à la liste</p>
+<p>Marquer une tâche comme terminée</p>
+<p>Supprimer une tâche de la liste</p>
+<p>Sauvegarder la liste des tâches pour une utilisation future</p>
 
 <h2>Utilisation</h2>
-Clonez ou téléchargez ce dépôt sur votre ordinateur
-Ouvrez le fichier index.html dans votre navigateur
-Ajoutez des tâches en tapant dans le champ de saisie et en appuyant sur "+"
-Cochez une tâche pour la marquer comme terminée
-Supprimez une tâche en cliquant sur l'icône de la corbeille à droite de la tâche
-La liste des tâches est automatiquement sauvegardée dans le stockage local de votre navigateur, vous pouvez donc fermer et rouvrir l'application sans perdre vos données.
+<p>Clonez ou téléchargez ce dépôt sur votre ordinateur</p>
+<p>Ouvrez le fichier index.html dans votre navigateur</p>
+<p>Ajoutez des tâches en tapant dans le champ de saisie et en appuyant sur "+"</p>
+<p>Cochez une tâche pour la marquer comme terminée</p>
+<p>Supprimez une tâche en cliquant sur l'icône de la corbeille à droite de la tâche</p>
+<p>La liste des tâches est automatiquement sauvegardée dans le stockage local de votre navigateur, vous pouvez donc fermer et rouvrir l'application sans perdre vos données.</p>
