@@ -1,5 +1,5 @@
 <h1> To-Do List</h1>
-<h2>Cette application To-Do List a été développée pour aider les utilisateurs à organiser leur journée en créant des listes de tâches à accomplir. Avec cette application, vous pouvez ajouter de nouvelles tâches, les marquer comme terminées et les supprimer une fois qu'elles sont complétées.</h2>
+<p>Cette application To-Do List a été développée pour aider les utilisateurs à organiser leur journée en créant des listes de tâches à accomplir. Avec cette application, vous pouvez ajouter de nouvelles tâches, les marquer comme terminées et les supprimer une fois qu'elles sont complétées.</p>
 
 <h2>Fonctionnalités</h2>
 
